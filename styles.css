@@ -59,7 +59,8 @@ body {
 
 .container__titulo {
     font-size: 28px;
-    }
+    font-weight: 700;
+}
 
 .container__imagem {
     margin: 1em 0 2em 0em;
@@ -67,7 +68,7 @@ body {
 
 .container__caixa {
     margin: 0 6em;
-    max-width: 800px;
+    max-width: 900px;
 }
 
 .secundario__imagem {
